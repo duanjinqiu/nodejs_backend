@@ -4,6 +4,6 @@ const httpServer = http.createServer((req, res) => {
     res.end('我是好人');
 });
 
-httpServer.listen(3000, () => {
-    console.log('3000……');
+httpServer.listen(3009, () => {
+    console.log('3009……');
 });

@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "./weishenme.js",
+      "src": "./huluwa.js",
       "use": "@vercel/node"
     }
   ],
